@@ -1,2 +1,2 @@
-# broccofarm
+# test
 A manager to turn on and off computers in a local network. More to come...
